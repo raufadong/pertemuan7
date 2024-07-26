@@ -1,0 +1,62 @@
+/* Reset CSS */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Gaya dasar untuk body */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color: cornsilk;
+}
+
+/* Gaya untuk header */
+header {
+    width: 800px;
+    margin: auto;
+}
+
+/* Gaya untuk logo */
+.logo img {
+   
+}
+
+/* Gaya untuk navigasi */
+nav ul {
+   
+}
+
+nav ul li {
+    margin-left: 20px;
+}
+
+nav ul li a {
+
+}
+
+nav ul li a:hover {
+    color: #ffa500;
+}
+
+.hero {
+    
+}
+.content{
+    width: 800px;
+    margin: auto;
+    background-color: #fff;
+    padding: 20px;
+}
+.content p {
+    margin-bottom: 10px;
+    font-size: 16px;
+}
+.footer {
+ 
+}
+.footer p {
+    margin: 0;
+    
+}
